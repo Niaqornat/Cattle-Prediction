@@ -1,4 +1,5 @@
 # cattle_prediction
+<img width="415" height="869" alt="Ekran görüntüsü 2025-06-11 105807" src="https://github.com/user-attachments/assets/ec5736d8-9f56-400f-ad95-1d16864fa179" />
 
 Google Colab link: https://colab.research.google.com/drive/1Tw_fXye9QvuXUblGsL-RNPnJDDuiJ-3S?usp=sharing#scrollTo=uWKOOCpmGBjZ
 
