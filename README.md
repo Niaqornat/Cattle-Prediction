@@ -3,7 +3,7 @@
 
 ## 🏠 Ana Sayfa
 
-![Ana Sayfa]([https://github.com/user-attachments/assets/c657ff6c-40d5-4f84-85d9-b72799321767](https://github.com/user-attachments/assets/ec5736d8-9f56-400f-ad95-1d16864fa179))
+![Ana Sayfa](https://github.com/user-attachments/assets/c657ff6c-40d5-4f84-85d9-b72799321767](https://github.com/user-attachments/assets/ec5736d8-9f56-400f-ad95-1d16864fa179)
 
 Uygulamanın ana ekranı.
 
