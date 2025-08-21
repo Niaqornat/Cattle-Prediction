@@ -1,5 +1,7 @@
 # cattle_prediction
 
+Google Colab link: https://colab.research.google.com/drive/1Tw_fXye9QvuXUblGsL-RNPnJDDuiJ-3S?usp=sharing#scrollTo=uWKOOCpmGBjZ
+
 A new Flutter project.
 
 ## Getting Started
